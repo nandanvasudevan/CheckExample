@@ -1,0 +1,6 @@
+*.out
+*.gch
+*.o
+*.so
+output/*
+!output/Makefile
